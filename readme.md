@@ -41,11 +41,6 @@ https://support.gitkraken.com/integrations/github
 ### Install command line utility (optional)
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-### Clone the repo locally
-by clicking on the button CLONE OR DOWNLOAD and then to OPEN IN DESKTOP
-
-### Edit your files locally
-work on your computer and push to the cloud when you are ready to save your work
 
 ### Write/edit readme files using MarkDown
 a nice cheatsheet can be found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
